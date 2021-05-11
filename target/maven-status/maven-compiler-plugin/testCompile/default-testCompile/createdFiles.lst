@@ -1,5 +1,0 @@
-com\jsonplaceholder\config\Config.class
-com\jsonplaceholder\endpoints\PostsEndPoint.class
-com\jsonplaceholder\models\Post.class
-com\jsonplaceholder\RunCucumberTests.class
-com\jsonplaceholder\steps\PostStepDefs.class
